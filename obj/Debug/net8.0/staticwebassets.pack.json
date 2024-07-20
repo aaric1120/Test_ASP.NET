@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\aaric\\OneDrive\\Desktop\\test_asp\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\aaric\\OneDrive\\Desktop\\test_asp\\WebApplication1\\wwwroot\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\asset-manifest.json"
+    },
+    {
+      "Id": "c:\\Users\\aaric\\OneDrive\\Desktop\\test_asp\\WebApplication1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\Users\\aaric\\OneDrive\\Desktop\\test_asp\\WebApplication1\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "c:\\Users\\aaric\\OneDrive\\Desktop\\test_asp\\WebApplication1\\wwwroot\\logo192.png",
+      "PackagePath": "staticwebassets\\logo192.png"
+    },
+    {
+      "Id": "c:\\Users\\aaric\\OneDrive\\Desktop\\test_asp\\WebApplication1\\wwwroot\\logo512.png",
+      "PackagePath": "staticwebassets\\logo512.png"
+    },
+    {
+      "Id": "c:\\Users\\aaric\\OneDrive\\Desktop\\test_asp\\WebApplication1\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "c:\\Users\\aaric\\OneDrive\\Desktop\\test_asp\\WebApplication1\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "c:\\Users\\aaric\\OneDrive\\Desktop\\test_asp\\WebApplication1\\wwwroot\\static\\css\\main.db5adc5b.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.db5adc5b.css"
+    },
+    {
+      "Id": "c:\\Users\\aaric\\OneDrive\\Desktop\\test_asp\\WebApplication1\\wwwroot\\static\\css\\main.db5adc5b.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.db5adc5b.css.map"
+    },
+    {
+      "Id": "c:\\Users\\aaric\\OneDrive\\Desktop\\test_asp\\WebApplication1\\wwwroot\\static\\js\\453.9c44b721.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\453.9c44b721.chunk.js"
+    },
+    {
+      "Id": "c:\\Users\\aaric\\OneDrive\\Desktop\\test_asp\\WebApplication1\\wwwroot\\static\\js\\453.9c44b721.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\453.9c44b721.chunk.js.map"
+    },
+    {
+      "Id": "c:\\Users\\aaric\\OneDrive\\Desktop\\test_asp\\WebApplication1\\wwwroot\\static\\js\\main.8f99bad2.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.8f99bad2.js"
+    },
+    {
+      "Id": "c:\\Users\\aaric\\OneDrive\\Desktop\\test_asp\\WebApplication1\\wwwroot\\static\\js\\main.8f99bad2.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.8f99bad2.js.LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\aaric\\OneDrive\\Desktop\\test_asp\\WebApplication1\\wwwroot\\static\\js\\main.8f99bad2.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.8f99bad2.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
